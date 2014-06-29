@@ -9,6 +9,6 @@ Usage
 -----
 ```javascript
 $('#element').exists(function() {
-  do stuff upon existence of #element
+  // do stuff upon existence of #element
 });
-```
+``
