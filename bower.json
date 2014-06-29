@@ -1,6 +1,6 @@
 {
-  "name": "exists",
-  "version": "1.0.0",
+  "name": "jquery.exists",
+  "version": "1.1.0",
   "homepage": "https://github.com/markusfalk/exists",
   "authors": [
     "Markus Falk <mail@markus-falk.com>"
@@ -10,5 +10,8 @@
   "license": "MIT",
   "ignore": [
     "*.md"
-  ]
+  ],
+  "dependencies": {
+    "jquery": ">1.7.0"
+  },
 }
