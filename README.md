@@ -11,4 +11,4 @@ Usage
 $('#element').exists(function() {
   // do stuff upon existence of #element
 });
-``
+```
