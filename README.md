@@ -15,6 +15,6 @@ $('#element').exists(function() {
 Installation
 ------------
 
-```terminal
+```shell
 bower install markusfalk/exists
 ```
