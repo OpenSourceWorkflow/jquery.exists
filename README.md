@@ -12,3 +12,9 @@ $('#element').exists(function() {
   // do stuff upon existence of #element
 });
 ```
+Installation
+------------
+
+```terminal
+bower install markusfalk/exists
+```
