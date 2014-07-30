@@ -16,5 +16,5 @@ Installation
 ------------
 
 ```shell
-bower install markusfalk/exists
+bower install markusfalk/jquery.exists
 ```
