@@ -1,7 +1,7 @@
 {
   "name": "jquery.exists",
-  "version": "1.1.0",
-  "homepage": "https://github.com/markusfalk/exists",
+  "version": "1.0.0",
+  "homepage": "https://github.com/OpenSourceWorkflow/jquery.exists",
   "authors": [
     "Markus Falk <mail@markus-falk.com>"
   ],
