@@ -1,7 +1,7 @@
 exists
 ======
 
-![Project is deprecated!](https://cdn.rawgit.com/OpenSourceWorkflow/generator-kickstart/master/deprecation-warning.svg)
+![Project is deprecated!](https://cdn.rawgit.com/OpenSourceWorkflow/generator-kickstart/master/deprecated.svg)
 
 This project has been deprecated!
 
